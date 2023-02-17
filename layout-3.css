@@ -1,11 +1,6 @@
-.container
-{
-    position: absolute;
-    bottom: 1px;
-    left: 100px;
-}
+
 #uid
-{font-size: 130px;
+{font-size: 100px;
 color: gainsboro;
 }
 #programmingimg
@@ -16,7 +11,7 @@ color: gainsboro;
 {
     border: 1px solid;
     background-color: aqua;
-    width: 90px;
+    width: 70px;
     position: relative;
     top: 30px;
     padding: 9px;
@@ -24,16 +19,16 @@ color: gainsboro;
 .uandhline
 {
     position: relative;
-    top: 390px;
+    top: 200px;
     left: 70px;
 }
 #trending
 {
-font-size: 30px;
+font-size: 25px;
 }
 #soft
 {
-    font-size: 28px;;
+    font-size: 25px;;
 }
 .trendandsoft
 {
@@ -42,9 +37,48 @@ font-size: 30px;
     color: white;
 }
 .transp-box
-{   
+{    position: relative; 
     border: 1px solid;
-    color: white;
-     padding: 10px;
-     width: 100px;
+    opacity: 0.4;
+    background-color: black;
+    padding: 70px;
+    bottom: 740px;
+    height: 180PX;
+     width: 800px;
+}
+.transp-verbox
+{
+    position: relative;
+        border: 1px solid;
+        opacity: 0.4;
+        background-color:seashell;
+        padding: 70px;
+        left: 800px;
+         bottom: 922PX;
+         height: 500px;
+        width: 310px;
+}
+.transp-squrebox
+{
+    position: relative;
+        border: 1px solid;
+        opacity:0 ;
+        background-color:black;
+        padding: 80px;
+        right: 103px;
+        top: 200px;
+        height: 250px;
+        width: 312px;
+}
+.transp-hbox2
+{
+    position: relative;
+        border: 1px solid;
+        opacity:0.5;
+        background-color: yellow;
+        padding: 70px;
+        right: 871px;
+        bottom: 149px;
+        height: 290px;
+        width: 800px;
 }
