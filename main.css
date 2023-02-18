@@ -1,5 +1,5 @@
 .header{
-    background-image: url('file:///C:/v/layout%20Three/img/wal.jpg');
+    background-image: url('img/wal.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: auto;
@@ -61,7 +61,7 @@ font-size: xx-large;
 }
 .coded{
     padding: 0rem 0rem 0rem 6rem;
-    margin: -15% 0rem 0rem 0rem;
+    margin: -9% 0rem 0rem 0rem;
     line-height: 1rem;
     font-size: large;
 }
