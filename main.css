@@ -1,0 +1,78 @@
+.header{
+    background-image: url('file:///C:/v/layout%20Three/img/wal.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+}
+.box{
+    position: relative;
+    height: 3.5%;
+    width: 3%;
+    top: 1rem;
+    left: 3px;
+    background-color: aqua;
+    margin-bottom: 1rem;
+}
+.h_1{
+    position: relative;
+    background-color: #2c3137de;
+    color: white;
+    height: 10rem;
+    line-height: 1%;
+    
+}
+.first{
+    color: palevioletred;
+}
+.java{
+    position: relative;
+background-color: #65646a9b;
+direction: rtl;
+padding: 6rem;
+font-size: xx-large;
+
+}
+.h_3{
+    position: relative;
+    background-color: #cbb952a9;
+}
+.h_3 h2{
+    color: white;
+    font-size:80px;
+    margin-left: 30px;
+}
+.h_3 h6{
+    color: white;
+    font-size:50px;
+    margin-left: 30px;
+}
+.address{
+    position: relative;
+    text-align: right;
+    background-color: #434448bb;
+}
+.h_5{
+    background-color: #f8f8f8;
+    padding :2rem;
+    text-align: justify;
+}
+.h_5 h4{
+    color: #c95e66;
+}
+.coded{
+    padding: 0rem 0rem 0rem 6rem;
+    margin: -15% 0rem 0rem 0rem;
+    line-height: 1rem;
+    font-size: large;
+}
+.co{
+    margin-bottom: 1%;
+}
+.h_5 p sup
+{
+   top: -2rem;
+   font-size: large;
+}
+.h_5 p b{
+    line-height: 1rem;
+}
